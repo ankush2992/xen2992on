@@ -69,7 +69,7 @@
 
 <!-- Animated Footer -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ankush2992/ankush2992/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ankush2992/ankush2992/output/snake.svg" width="100%"/>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer&animation=twinkling"/>
 </div>
