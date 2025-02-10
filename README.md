@@ -1,8 +1,9 @@
 <!-- Animated Matrix-Style Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ankush2992/ankush2992/main/matrix.gif" alt="matrix" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ankush2992/ankush2992/main/matrix.gif" alt="matrix" width="110%"/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=ANKUSH;Web+Automation;Bot+-+-+-+Developer;Cloud+Enthusiast" alt="Typing Animation" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1500&color=00FF00&center=true&vCenter=true&width=435&lines=Myself+Ankush;Automation+Wizard;A+Bot+Developer;An+IoT+Innovator;Web+Automation+Specialist;Cloud+Explorer" alt="Typing Animation" />
+ 
   </a>
 </div>
 
@@ -23,7 +24,13 @@
 
 <!-- Floating Tech Stack -->
 <div align="center">
-  <h2 style="color: #00ff00; text-shadow: 0 0 10px #00ff00">⚡ Tech Stack</h2>
+  <img src="https://raw.githubusercontent.com/ankush2992/ankush2992/main/matrix.gif" alt="matrix" width="110%"/>
+  <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=3800&color=FF0000&center=true&vCenter=true&width=435&lines=Tech+Stack;Tech+Stack;Tech+Stack;Tech+Stack;Tech+Stack;Cloud+Explorer;Tech+Stack" alt="Typing Animation" />
+ 
+  </a>
+</div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=py,java,cpp,js,react,nodejs,aws,azure,git,docker,linux,tensorflow&theme=dark&perline=6" />
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=ankush2992&theme=onedark&no-frame=true&row=2&column=4&margin-w=15"/>
@@ -43,20 +50,22 @@
 <!-- Dynamic Spotify Integration -->
 <h2 align="center" style="color: #00ff00; text-shadow: 0 0 10px #00ff00">🎧 Now Playing</h2>
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=1psakk7GVUl85AnTEvwtk2?si=ZU8i7Ob_TZah_wwPfLKd-A&cover_image=true&theme=novatorem&bar_color=00ff00&bar_color_cover=true"/>
+  <a href="https://open.spotify.com/user/315pxg6siwvzw7rzp3ab5bqw44fm" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
 </div>
 
 <!-- Glowing Social Links -->
 <h2 align="center" style="color: #00ff00; text-shadow: 0 0 10px #00ff00">🌐 Connect With Me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/ankush2992">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=blue&labelColor=0d1117"/>
   </a>
   <a href="mailto:xen2992on@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=red&labelColor=0d1117"/>
   </a>
   <a href="https://leetcode.com/u/ankush2992">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=yellow&labelColor=0d1117"/>
   </a>
 </p>
 
