@@ -1,5 +1,5 @@
 <!-- Animated Matrix-Style Header -->
-<div align="center">
+<div align="center">  
   <img src="https://raw.githubusercontent.com/ankush2992/ankush2992/main/matrix.gif" alt="matrix" width="110%"/>
   <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1500&color=00FF00&center=true&vCenter=true&width=435&lines=Myself+Ankush;Automation+Wizard;A+Bot+Developer;An+IoT+Innovator;Web+Automation+Specialist;Cloud+Explorer" alt="Typing Animation" />
